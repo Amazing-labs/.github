@@ -8,10 +8,6 @@
   A small collective exploring product engineering, developer tooling, scalable systems, and creative experiments.
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,hono,postgres,docker,rust" />
-</p>
-
 </div>
 
 ---
