@@ -1,86 +1,67 @@
 <div align="center">
 
-# 💀 The-man-dies  
+# 🌴 Amazing Lab
 
-### ⚡ Building real projects • systems • experiments  
+### Building software, experiments, and systems that actually ship.
 
 <p>
-  From ideas to working systems — fast, pragmatic, and iterative.
+  A small collective exploring product engineering, developer tooling, scalable systems, and creative experiments.
 </p>
 
-<a href="mailto:themandies4@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-333333?style=for-the-badge&logo=gmail" />
-</a>
-<a href="https://discord.gg/UMRpJA6z">
-  <img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord" />
-</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,hono,postgres,docker,rust" />
+</p>
 
 </div>
 
 ---
 
-## 🧠 What is The-man-dies  
+## What is Amazing Lab?
 
-We are a small development collective building **real software, experimental systems, and game-related projects**.
+Amazing Lab is a development collective focused on building real software with a pragmatic mindset.
 
-No fluff — just building and shipping.
+We like:
+- useful systems
+- clean architecture
+- fast iteration
+- experimental ideas that can become real products
 
----
-
-## 🚀 What We Do  
-
-- 🧪 Experiment with new ideas (tools, systems, languages)  
-- 🛠️ Build real-world applications with business logic  
-- 🎮 Explore game development & interactive systems  
-- ⚡ Ship fast, iterate, improve  
+No hype-driven development.  
+Just building things that work.
 
 ---
 
-## 🔥 Active Projects  
+## Areas We Explore
 
-### 🧠 Fake News Detector  
-🔗 https://github.com/The-man-dies/fake-news-detector  
-
-Helping users identify misinformation and bias in news content.
-
----
-
-## 🧩 Ongoing Experiments  
-
-- Dev tools & safety tooling  
-- Game prototypes  
-- Programming language experiments  
-- Backend systems with real business rules  
+- 🛠️ Developer tooling
+- 🌐 Scalable web platforms
+- 🧠 System design & backend architecture
+- 🎮 Interactive and experimental projects
+- ⚡ Performance-focused engineering
 
 ---
 
-## 🛠️ Core Stack  
+## Featured Project
 
-We focus on tools we actually use in production:
+### Fake News Detector
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,docker,postgres" />
-</p>
+A collaborative platform helping users identify misinformation and analyze bias in online news content.
 
----
-
-## ⚙️ How We Work  
-
-- ⚡ Build fast, avoid overengineering  
-- 🧠 Focus on useful systems, not hype  
-- 🧩 Keep logic clean and understandable  
-- 🔁 Iterate based on real usage  
+> Built around reliability, transparency, and scalable moderation systems.
 
 ---
 
-## 🔭 Current Direction  
+## Engineering Philosophy
 
-- Strengthening backend architectures  
-- Building scalable web platforms  
-- Exploring system design & performance  
+- Build fast, refine continuously
+- Prefer clarity over complexity
+- Keep systems understandable as they grow
+- Focus on real-world usability
 
 ---
 
 <div align="center">
-  <em>We build. We test. We improve.</em>
+
+### ☀️ Build • Experiment • Improve
+
 </div>
