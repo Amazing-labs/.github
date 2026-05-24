@@ -1,27 +1,29 @@
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Amazing-Labs">
+    <img src="../assets/amazing_labs_logo.png" alt="Amazing Labs logo" width="400" style="border-radius:50%">
+  </a>
+</p>
 
-# 🌴 Amazing Labs
+## About Amazing Labs
 
-Building useful software, devtools, and experimental projects.
+We craft simple, practical software — for clients, for the community, and sometimes just because it’s fun.  
+Everything we build in public stays public, under the **MIT license**.
 
-</div>
+- 🛠️ **Client tools & real-world applications** — scalable, affordable, no unnecessary complexity.
+- 🌐 **Open‑source platforms & devtools** — including an anime tracker, just because we love building things people enjoy.
+- 🧪 **Experiments & side projects** — ideas that might turn into the next useful tool.
+- ⚡ **Quality over hype** — we may be a small team, but we’re committed to shipping clean, reliable code.
+
+## Get Involved
+
+All our repositories are open and ready for collaboration.  
+Explore our pinned projects below, open an issue, or fork something that sparks your interest.
+
+If you’re looking for a custom tool, a devtool for your team, or just want to chat about an idea,  
+reach out via [GitHub Discussions](https://github.com/orgs/Amazing-Labs/discussions) (link to be updated).
 
 ---
 
-**We craft simple, practical software** — for clients, for the community, and sometimes just because it’s fun.
-
-- 🛠️ Client tools & real-world applications  
-- 🌐 Open-source platforms & devtools (including an anime tracker, just because)  
-- 🧪 Experiments that might become something useful  
-- ⚡ No unnecessary complexity — just quality at fair prices  
-
-Everything we build in public stays public, under the **MIT license**.
-
-We’re a small team — not the most experienced, not the most competitive.  
-But we’re committed to shipping clean, affordable software, and improving with every build.
-
-<div align="center">
-
-### ☀️ Build • Experiment • Improve
-
-</div>
+<p align="center">
+  ☀️ <strong>Build • Experiment • Improve</strong>
+</p>
