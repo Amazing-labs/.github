@@ -1,60 +1,24 @@
 <div align="center">
 
-# 🌴 Amazing Lab
+# 🌴 Amazing Labs
 
-### Building software, experiments, and systems that actually ship.
-
-<p>
-  A small collective exploring product engineering, developer tooling, scalable systems, and creative experiments.
-</p>
+Building useful software, devtools, and experimental projects.
 
 </div>
 
 ---
 
-## What is Amazing Lab?
+**We craft simple, practical software** — for clients, for the community, and sometimes just because it’s fun.
 
-Amazing Lab is a development collective focused on building real software with a pragmatic mindset.
+- 🛠️ Client tools & real-world applications  
+- 🌐 Open-source platforms & devtools (including an anime tracker, just because)  
+- 🧪 Experiments that might become something useful  
+- ⚡ No unnecessary complexity — just quality at fair prices  
 
-We like:
-- useful systems
-- clean architecture
-- fast iteration
-- experimental ideas that can become real products
+Everything we build in public stays public, under the **MIT license**.
 
-No hype-driven development.  
-Just building things that work.
-
----
-
-## Areas We Explore
-
-- 🛠️ Developer tooling
-- 🌐 Scalable web platforms
-- 🧠 System design & backend architecture
-- 🎮 Interactive and experimental projects
-- ⚡ Performance-focused engineering
-
----
-
-## Featured Project
-
-### Fake News Detector
-
-A collaborative platform helping users identify misinformation and analyze bias in online news content.
-
-> Built around reliability, transparency, and scalable moderation systems.
-
----
-
-## Engineering Philosophy
-
-- Build fast, refine continuously
-- Prefer clarity over complexity
-- Keep systems understandable as they grow
-- Focus on real-world usability
-
----
+We’re a small team — not the most experienced, not the most competitive.  
+But we’re committed to shipping clean, affordable software, and improving with every build.
 
 <div align="center">
 
