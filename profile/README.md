@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Amazing-Labs">
-    <img src="../assets/amazing_labs_logo.png" alt="Amazing Labs logo" width="400">
+    <img src="https://raw.githubusercontent.com/Amazing-labs/.github/main/assets/amazing_labs_logo.png" alt="Amazing Labs logo" width="400">
   </a>
 </p>
 
